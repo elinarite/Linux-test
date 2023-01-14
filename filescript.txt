@@ -17,6 +17,9 @@ done
 
 echo “Data saved. continue work”
 df -h >> /tmp/mydate.txt
+mkdir /opt/mydate
+cat /opt/mydate/newmydate.txt
+
 
 for run in {1..5}
 do

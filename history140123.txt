@@ -1,9 +1,8 @@
    0 nano fullscript.sh
    1 chmod u+x fullscript.sh 
    2 ./fullscript.sh 
-   3 cp /tmp/mydate.txt /opt/newmydate.txt
-   4 cat /opt/newmydate.txt 
-   5 cp fullscript.sh filescript.txt
-   6 export_file filescript.txt 
-   7 mv fullscript.sh /bin/fullscript.sh
-   8 history > history140123.txt
+   3 cp /tmp/mydate.txt /opt/newmydate.txt 
+   4 cp fullscript.sh filescript.txt
+   5 export_file filescript.txt 
+   6 mv fullscript.sh /bin/fullscript.sh
+   7 history > history140123.txt
